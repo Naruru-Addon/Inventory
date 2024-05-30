@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "インベントリを覗くことができます\n製作:なるる\nYouTube:なるる-Naruru",
+        "name": "インベントリアドオン ver1.0.0",
+        "uuid": "f65e7dff-2bb0-4ea6-9104-8863f5be1765",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 80]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "bb9bfb2e-6e5d-428e-9230-b2d48d682c3b",
+            "version": [1, 0, 0]
+        }
+    ]
+}
