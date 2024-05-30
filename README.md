@@ -4,7 +4,7 @@
 
 アドオンのダウンロードは[コチラ](https://github.com/Naruru-Addon/Inventory/releases)
 
-クラフターズコロニーは[コチラ]()
+クラフターズコロニーは[コチラ](https://minecraft-mcworld.com/79243/)
 
 # 使い方
 まずはアドオンをワールドにインポートしてください。
