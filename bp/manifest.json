@@ -5,7 +5,7 @@
         "name": "インベントリアドオン ver1.1.0",
         "uuid": "4d5521f7-1e23-4e23-8ad4-b164af98b995",
         "version": [1, 1, 0],
-        "min_engine_version": [1, 21, 00]
+        "min_engine_version": [1, 21, 0]
     },
     "modules": [
         {
