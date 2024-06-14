@@ -2,10 +2,10 @@
     "format_version": 2,
     "header": {
         "description": "インベントリを覗くことができます\n製作:なるる\nYouTube:なるる-Naruru",
-        "name": "インベントリアドオン ver1.0.0",
+        "name": "インベントリアドオン ver1.1.0",
         "uuid": "4d5521f7-1e23-4e23-8ad4-b164af98b995",
-        "version": [1, 0, 0],
-        "min_engine_version": [1, 20, 80]
+        "version": [1, 1, 0],
+        "min_engine_version": [1, 21, 00]
     },
     "modules": [
         {
@@ -13,18 +13,18 @@
             "type": "script",
             "language": "javascript",
             "uuid": "0f06fd69-4eee-4437-a31e-309f6bc8e27b",
-            "version": [1, 0, 0],
+            "version": [1, 1, 0],
             "entry": "scripts/index.js"
         }
     ],
     "dependencies": [
         {
             "uuid": "f65e7dff-2bb0-4ea6-9104-8863f5be1765",
-            "version": [1, 0, 0]
+            "version": [1, 1, 0]
         },
         {
             "module_name": "@minecraft/server",
-            "version": "1.11.0-beta"
+            "version": "1.12.0-beta"
         },
         {
             "module_name": "@minecraft/server-ui",
